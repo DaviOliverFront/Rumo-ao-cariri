@@ -61,15 +61,21 @@ main{
     flex-direction: column;
     align-items: center;
 }
-
+.titulo{
+    align-items: center;
+    height: 215px;
+    width: 500px;
+}
 .sub-titulo{
     font-size: 45px;
     text-align: center;
     width: 1300px;
 }
 
-.titulo{
-    align-items: center;
-    height: 215px;
-    width: 500px;
+.para1{
+    margin-top: 130px;
+    font-size: 39px;
+    text-align: center;
 }
+
+
